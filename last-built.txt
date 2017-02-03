@@ -1,0 +1,11 @@
+Fri Feb 03 2017 15:16:56 GMT-0500 (EST)
+
+
+commit af20b92ca78f86cb2e105a291afa0dd757341d42
+Merge: 6ed2b77 2e83c4b
+Author: ScottDowne <scott.downe@gmail.com>
+Date:   Fri Feb 3 15:15:57 2017 -0500
+
+    Merge pull request #10 from ScottDowne/cookies
+    
+    Cookies icon image.
